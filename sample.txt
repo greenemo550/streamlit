@@ -1,0 +1,4 @@
+Hello, this is a sample text file.
+It contains multiple lines and words.
+This file is used for testing purposes.
+Happy coding!
